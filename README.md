@@ -1,5 +1,6 @@
-![ezcv logo](https://github.com/Pardal99/Pardal99/blob/master/profile_image.png)
+
 <h1 align="center">
+  ![ezcv logo](https://github.com/Pardal99/Pardal99/blob/master/profile_image.png)
   Pablo Pardal
   <br>
 </h1>
