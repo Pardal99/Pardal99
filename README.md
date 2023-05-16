@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://github.com/Pardal99/Pardal99/blob/master/profile_image.png)" alt="Profile image"/>
+  <img src="https://github.com/Pardal99/Pardal99/blob/master/profile_image.png?raw=true" alt="Profile image"/>
 </p>
 <h1 align="center">
   Pablo Pardal
