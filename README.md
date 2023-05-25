@@ -6,4 +6,4 @@
   <br>
 </h1>
 
-<h4 align="center">Hello! I'm Pablo Pardal and I'm a software developer at Fujitsu Spain.</h4>
+<h4 align="center">Hello! I'm Pablo Pardal and I'm software developer at Fujitsu Spain.</h4>
